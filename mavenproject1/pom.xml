@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.mavenproject1.Mavenproject1</exec.mainClass>
     </properties>
+    <name>ProyectoFinalPoo</name>
 </project>
